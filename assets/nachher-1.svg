@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#dff7ea"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="url(#g)"/>
+  <rect x="70" y="70" width="760" height="480" rx="36" fill="#ffffff" opacity="0.72"/>
+  <circle cx="230" cy="245" r="70" fill="#0b1f3a" opacity="0.18"/>
+  <rect x="340" y="200" width="330" height="42" rx="21" fill="#0b1f3a" opacity="0.18"/>
+  <rect x="340" y="272" width="420" height="42" rx="21" fill="#0b1f3a" opacity="0.12"/>
+  <text x="450" y="390" text-anchor="middle" font-family="Arial" font-size="58" font-weight="800" fill="#0b1f3a">Nachher</text>
+  <text x="450" y="446" text-anchor="middle" font-family="Arial" font-size="24" fill="#667085">Eigenes Foto in assets ersetzen</text>
+</svg>
